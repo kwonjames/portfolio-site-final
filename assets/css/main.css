@@ -2685,27 +2685,27 @@ input, select, textarea {
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #d9d9d9;
+				background-color: #a6a6a6;
 			}
 
 			.tiles article.style2 > .image:before {
-				background-color: #d9d9d9;
+				background-color: #a6a6a6;
 			}
 
 			.tiles article.style3 > .image:before {
-				background-color: #d9d9d9;
+				background-color: #a6a6a6;
 			}
 
 			.tiles article.style4 > .image:before {
-				background-color: #d9d9d9;
+				background-color: #a6a6a6;
 			}
 
 			.tiles article.style5 > .image:before {
-				background-color: #d9d9d9;
+				background-color: #a6a6a6;
 			}
 
 			.tiles article.style6 > .image:before {
-				background-color: #8499e7;
+				background-color: #a6a6a6;
 			}
 
 			body:not(.is-touch) .tiles article:hover > .image {
