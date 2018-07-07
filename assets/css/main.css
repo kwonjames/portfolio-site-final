@@ -2809,6 +2809,7 @@ input, select, textarea {
 	
 	.stories {
 		color: 60e5b3;
+		font-style: italic;
 	}
 
 	#header {
